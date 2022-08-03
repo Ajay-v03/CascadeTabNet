@@ -131,12 +131,6 @@ The docker image of this project can be found at <a href="https://hub.docker.com
 
 It currently contains three models from model zoo. For details you can check the readme file at the docker hub.
 
-## Contact
-Devashish Prasad : devashishkprasad [at] gmail [dot] com <br>
-Ayan Gadpal : ayangadpal2 [at] gmail [dot] com <br>
-Kshitij Kapadni : kshitij.kapadni [at] gmail [dot] com <br>
-Manish Visave : manishvisave149 [at] gmail [dot] com <br>
-
 ## Acknowledgements
 
 We thank the following contributions because of which
