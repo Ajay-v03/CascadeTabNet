@@ -151,17 +151,4 @@ research and which enabled us to experiment and build state of the art models ve
 
 ## License
 The code of CascadeTabNet is Open Source under the [MIT License](LICENSE.md). There is no limitation for both acadmic and commercial usage.
-
-## Cite as
-If you find this work useful for your research, please cite our paper:
-
-```
-@misc{ cascadetabnet2020,
-    title={CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents},
-    author={Devashish Prasad and Ajay Verma},
-    year={2020},
-    eprint={2004.12629},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
 ```
