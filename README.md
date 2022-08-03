@@ -4,10 +4,6 @@
 [![PWC](https://img.shields.io/badge/%20mmdetection%20-v1.2-blue)](https://github.com/open-mmlab/mmdetection)
 
 > **CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents**<br>
-> [Devashish Prasad](https://github.com/DevashishPrasad),
-> [Ayan Gadpal](https://github.com/ayangadpal),
-> [Kshitij Kapadni](https://github.com/kshitijkapadni),
-> [Manish Visave](https://github.com/ManishDV),
 > <br>
 > [CVPR Link of Paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Prasad_CascadeTabNet_An_Approach_for_End_to_End_Table_Detection_and_CVPRW_2020_paper.pdf)<br>
 > [arXiv Link of Paper](https://arxiv.org/abs/2004.12629)<br>
@@ -168,7 +164,7 @@ If you find this work useful for your research, please cite our paper:
 ```
 @misc{ cascadetabnet2020,
     title={CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents},
-    author={Devashish Prasad and Ayan Gadpal and Kshitij Kapadni and Manish Visave and Kavita Sultanpure},
+    author={Devashish Prasad and Ajay Verma},
     year={2020},
     eprint={2004.12629},
     archivePrefix={arXiv},
